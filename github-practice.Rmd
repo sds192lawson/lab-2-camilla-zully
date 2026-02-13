@@ -2,7 +2,7 @@
 title: "SDS 192 Assignment"
 subtitle: "SDS 192"
 author: 
-- name: Jericho Lawson
+- name: Camilla Rosour
   affiliation: Smith College
 - name: Zully Luna Romero
   affiliation: Smith College
