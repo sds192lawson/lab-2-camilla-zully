@@ -1,3 +1,3 @@
-* Jericho Lawson
-* Jane Doe
+Camilla
+Zully
 * ADD NAME 3 HERE
